@@ -1,0 +1,6 @@
+Add a .env file
+with the following content
+
+TAVILY_API_KEY="tvly-dev-o1QSdaEqnMtKBCuhRiTRH"
+OPENWEATHER_API_KEY="75c43d92e1f8407590b2059172511"
+GROQ_API_KEY="gsk_7QD2xVU2WCCWqM3CEg3GWGdyb3FYdcPMRzJP3ebF"
